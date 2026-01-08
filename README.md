@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Naina 👋
 
-<!--
-**naina-kashyap/naina-kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning Backend Development & Data Structures  
+🌱 Currently working on C++, DSA, and Node.js  
+🎯 Goal: Crack top tech roles with strong fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack (Learning)
+- **Languages:** C++, JavaScript  
+- **DSA:** Arrays, Strings (in progress)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (upcoming)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 What I'm Doing Right Now
+- Solving DSA problems daily in C++  
+- Learning backend development step-by-step  
+- Building projects to apply concepts  
+- Improving problem-solving consistency  
+
+---
+
+## 📂 My Work
+- **DSA-CPP** → DSA practice in C++  
+- **Backend-Learning** → Backend learning journey  
+- **Projects** → Real-world projects (coming soon)  
+
+---
+
+## 📈 Belief
+> "Small daily progress leads to big results."
+
+Thanks for visiting my profile 🙂
